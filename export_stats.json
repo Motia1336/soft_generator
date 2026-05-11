@@ -1,0 +1,112 @@
+{
+  "total_generated": 2180,
+  "total_exported": 2080,
+  "android_generated": 1304,
+  "ios_generated": 876,
+  "android_exported": 1238,
+  "ios_exported": 842,
+  "export_sessions": [
+    {
+      "date": "2026-04-20 11:10",
+      "count": 100,
+      "android": 53,
+      "ios": 47
+    },
+    {
+      "date": "2026-04-22 13:02",
+      "count": 100,
+      "android": 42,
+      "ios": 58
+    },
+    {
+      "date": "2026-04-22 15:00",
+      "count": 100,
+      "android": 47,
+      "ios": 53
+    },
+    {
+      "date": "2026-04-22 15:21",
+      "count": 100,
+      "android": 43,
+      "ios": 57
+    },
+    {
+      "date": "2026-04-22 15:51",
+      "count": 100,
+      "android": 42,
+      "ios": 58
+    },
+    {
+      "date": "2026-04-23 13:49",
+      "count": 100,
+      "android": 68,
+      "ios": 32
+    },
+    {
+      "date": "2026-04-23 21:35",
+      "count": 1000,
+      "android": 619,
+      "ios": 381
+    },
+    {
+      "date": "2026-04-24 10:58",
+      "count": 10,
+      "android": 7,
+      "ios": 3
+    },
+    {
+      "date": "2026-04-24 11:40",
+      "count": 10,
+      "android": 4,
+      "ios": 6
+    },
+    {
+      "date": "2026-04-24 12:19",
+      "count": 20,
+      "android": 10,
+      "ios": 10
+    },
+    {
+      "date": "2026-04-24 14:04",
+      "count": 100,
+      "android": 70,
+      "ios": 30
+    },
+    {
+      "date": "2026-04-24 15:54",
+      "count": 15,
+      "android": 5,
+      "ios": 10
+    },
+    {
+      "date": "2026-04-24 16:06",
+      "count": 10,
+      "android": 8,
+      "ios": 2
+    },
+    {
+      "date": "2026-04-24 16:34",
+      "count": 100,
+      "android": 69,
+      "ios": 31
+    },
+    {
+      "date": "2026-04-24 17:07",
+      "count": 100,
+      "android": 71,
+      "ios": 29
+    },
+    {
+      "date": "2026-05-01 01:05",
+      "count": 15,
+      "android": 9,
+      "ios": 6
+    },
+    {
+      "date": "2026-05-11 21:32",
+      "count": 100,
+      "android": 71,
+      "ios": 29
+    }
+  ]
+}

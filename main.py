@@ -178,8 +178,9 @@ class App(ctk.CTk):
         self._tree.tag_configure("odd",  background="#21253A")
 
     def _build_generate_tab(self, parent):
-        left = ctk.CTkFrame(parent, fg_color=BG_CARD2, corner_radius=12)
-        left.pack(fill="both", expand=True, padx=100, pady=40)
+        # Using ScrollableFrame to ensure all settings are visible on smaller resolutions
+        left = ctk.CTkScrollableFrame(parent, fg_color=BG_CARD2, corner_radius=12, label_text="Настройки генерации", label_font=FONT_HEAD, label_text_color=ACCENT)
+        left.pack(fill="both", expand=True, padx=40, pady=20)
 
         ctk.CTkLabel(left, text="⚡ Генерация базы устройств", font=FONT_TITLE, text_color=TEXT_MAIN).pack(pady=(30, 10))
         ctk.CTkLabel(left, text="Вы можете сгенерировать до 10,000 профилей в мастер-базу.", font=FONT_BODY, text_color=TEXT_MUTED).pack()

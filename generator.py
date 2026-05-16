@@ -134,17 +134,28 @@ def _get_random_os_version(launch_os: str, platform: str, model_name: str = None
         return str(l_os)
 
 
-def _random_android_ua(os_ver: str, sb_version: int) -> str:
-    """Создает UA для Android (маскированный под Android 10 и устройство K)."""
+def _random_android_ua(os_ver: str, sb_version: int, tech_name: str = "K", mode: str = "frozen", mix_percent: int = 50) -> str:
+    """Создает UA для Android.
+    mode: 'frozen' (Android 10; K), 'real' (Actual OS; Technical Name), 'mix' (chance based)
+    """
     if random.choice([True, False]):
         chrome_ver = f"{sb_version}.0.0.0"
     else:
         v2 = random.randint(0, 9999)
         v3 = random.randint(0, 200)
         chrome_ver = f"{sb_version}.0.{v2}.{v3}"
-    # Гугл начал скрывать реальные данные: в UA всегда Android 10 и модель K
-    return (f"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 "
-            f"(KHTML, like Gecko) Chrome/{chrome_ver} Mobile Safari/537.36")
+    
+    active_mode = mode
+    if mode == "mix":
+        active_mode = "real" if random.randint(1, 100) <= mix_percent else "frozen"
+    
+    if active_mode == "frozen":
+        return (f"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 "
+                f"(KHTML, like Gecko) Chrome/{chrome_ver} Mobile Safari/537.36")
+    else:
+        # Real UA mode
+        return (f"Mozilla/5.0 (Linux; Android {os_ver}; {tech_name}) AppleWebKit/537.36 "
+                f"(KHTML, like Gecko) Chrome/{chrome_ver} Mobile Safari/537.36")
 
 
 
@@ -558,7 +569,7 @@ def _get_random_ios_version(model_name: str, launch_os: str) -> str:
     return str(chosen)
 
 # -------------------------------------------------------------------
-def generate_profile(platform: str = "random", custom_ua: str = None, region: list | None = None, languages_allowed: list | None = None) -> dict:
+def generate_profile(platform: str = "random", custom_ua: str = None, region: list | None = None, languages_allowed: list | None = None, ua_mode: str = "frozen", ua_mix_percent: int = 50) -> dict:
     """Generate a single device profile."""
     if platform == "random":
         platform = random.choice(["Android", "iOS"])
@@ -597,7 +608,8 @@ def generate_profile(platform: str = "random", custom_ua: str = None, region: li
         profile["vendor"]     = dev[10]
         profile["renderer"]   = dev[11]
         profile["device_name"] = dev[1]
-        profile["user_agent"] = custom_ua if custom_ua else _random_android_ua(actual_os, sb_version)
+        tech_name = dev[12] if len(dev) > 12 else "K"
+        profile["user_agent"] = custom_ua if custom_ua else _random_android_ua(actual_os, sb_version, tech_name, mode=ua_mode, mix_percent=ua_mix_percent)
         profile["os_display"] = f"Android {actual_os}"
         profile["hw_accel"]   = "Включить"
     else:  # iOS
@@ -626,20 +638,20 @@ def generate_profile(platform: str = "random", custom_ua: str = None, region: li
         profile["hw_accel"]   = "Включить"
     return profile
 
-def generate_batch(count: int, platform: str = "random", region: list | None = None, languages_allowed: list | None = None) -> list[dict]:
+def generate_batch(count: int, platform: str = "random", region: list | None = None, languages_allowed: list | None = None, ua_mode: str = "frozen", ua_mix_percent: int = 50) -> list[dict]:
     """Generate `count` unique profiles."""
     names_used = set()
     results = []
     for _ in range(count):
         max_retries = 10
         for _ in range(max_retries):
-            p = generate_profile(platform, region=region, languages_allowed=languages_allowed)
+            p = generate_profile(platform, region=region, languages_allowed=languages_allowed, ua_mode=ua_mode, ua_mix_percent=ua_mix_percent)
             if p["device_name"] not in names_used:
                 names_used.add(p["device_name"])
                 results.append(p)
                 break
         else:
-            p = generate_profile(platform, region=region, languages_allowed=languages_allowed)
+            p = generate_profile(platform, region=region, languages_allowed=languages_allowed, ua_mode=ua_mode, ua_mix_percent=ua_mix_percent)
             p["device_name"] += f"_{random.randint(1000, 9999)}"
             results.append(p)
     return results

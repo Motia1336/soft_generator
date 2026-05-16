@@ -199,7 +199,6 @@ class App(ctk.CTk):
         try:
             self._country_combo = ctk.CTkComboBox(left, values=countries)
         except Exception:
-            # Fallback to option menu if ComboBox not available in this CTK version
             self._country_combo = ctk.CTkOptionMenu(left, values=countries)
         self._country_combo.set("")
         self._country_combo.pack(fill="x", padx=40, pady=(0, 12))
@@ -214,6 +213,26 @@ class App(ctk.CTk):
         ctk.CTkCheckBox(langs_frame, text="Русский (ru)", variable=self._lang_ru_var, onvalue=True, offvalue=False).pack(anchor="w")
         ctk.CTkCheckBox(langs_frame, text="Язык страны (если выбран)", variable=self._lang_country_var, onvalue=True, offvalue=False).pack(anchor="w")
         ctk.CTkLabel(langs_frame, text="Подсказка: если выбран русский — system=ru ~60%, country ~35%, en-GB ~5% (учитываются только отмеченные языки).", font=FONT_SMALL, text_color=TEXT_MUTED, wraplength=520).pack(anchor="w", pady=(6,0))
+
+        # --- User-Agent Mode Selection ---
+        ctk.CTkLabel(left, text="Режим User-Agent (Android)", font=FONT_SMALL, text_color=TEXT_MUTED).pack(anchor="w", padx=40, pady=(15, 2))
+        self._ua_mode_var = ctk.StringVar(value="frozen")
+        ua_frame = ctk.CTkFrame(left, fg_color="transparent")
+        ua_frame.pack(fill="x", padx=40)
+        
+        for text, val in [("Замороженный", "frozen"), ("Реальный", "real"), ("Микс", "mix")]:
+            ctk.CTkRadioButton(ua_frame, text=text, variable=self._ua_mode_var, value=val, font=FONT_BODY).pack(side="left", padx=(0, 20))
+            
+        # Mix Percentage Slider
+        self._ua_mix_frame = ctk.CTkFrame(left, fg_color="transparent")
+        self._ua_mix_frame.pack(fill="x", padx=40, pady=(5, 0))
+        ctk.CTkLabel(self._ua_mix_frame, text="Процент реальных UA:", font=FONT_SMALL, text_color=TEXT_MUTED).pack(side="left")
+        self._ua_mix_slider = ctk.CTkSlider(self._ua_mix_frame, from_=0, to=100, number_of_steps=100, width=200)
+        self._ua_mix_slider.set(50)
+        self._ua_mix_slider.pack(side="left", padx=10)
+        self._ua_mix_lbl = ctk.CTkLabel(self._ua_mix_frame, text="50%", font=FONT_SMALL)
+        self._ua_mix_lbl.pack(side="left")
+        self._ua_mix_slider.configure(command=lambda v: self._ua_mix_lbl.configure(text=f"{int(v)}%"))
 
         self._gen_count = ctk.CTkEntry(left, placeholder_text="Сколько сгенерировать? (напр. 1000)", font=FONT_BODY)
         self._gen_count.pack(fill="x", padx=40, pady=10)
@@ -372,7 +391,11 @@ class App(ctk.CTk):
                 if cl:
                     langs_allowed.append(cl)
 
-            profiles = gen.generate_batch(cnt, plat, region=region, languages_allowed=(langs_allowed or None))
+            # UA Settings
+            ua_mode = self._ua_mode_var.get()
+            ua_percent = int(self._ua_mix_slider.get())
+
+            profiles = gen.generate_batch(cnt, plat, region=region, languages_allowed=(langs_allowed or None), ua_mode=ua_mode, ua_mix_percent=ua_percent)
             db.insert_profiles(profiles)
             db.record_generation(profiles)
             self.after(0, lambda: self._on_gen_done(len(profiles)))

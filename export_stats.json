@@ -1,10 +1,10 @@
 {
-  "total_generated": 2180,
-  "total_exported": 2080,
-  "android_generated": 1304,
-  "ios_generated": 876,
-  "android_exported": 1238,
-  "ios_exported": 842,
+  "total_generated": 3210,
+  "total_exported": 2610,
+  "android_generated": 2180,
+  "ios_generated": 1030,
+  "android_exported": 1763,
+  "ios_exported": 847,
   "export_sessions": [
     {
       "date": "2026-04-20 11:10",
@@ -107,6 +107,24 @@
       "count": 100,
       "android": 71,
       "ios": 29
+    },
+    {
+      "date": "2026-05-16 12:18",
+      "count": 10,
+      "android": 10,
+      "ios": 0
+    },
+    {
+      "date": "2026-05-16 12:27",
+      "count": 20,
+      "android": 15,
+      "ios": 5
+    },
+    {
+      "date": "2026-05-16 12:38",
+      "count": 500,
+      "android": 500,
+      "ios": 0
     }
   ]
 }

@@ -1,0 +1,600 @@
+УСТРОЙСТВО 1
+Имя: Oppo Find N3 (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 146
+Система: Android 14
+User-Agent: Mozilla/5.0 (Linux; Android 14; CPH2499) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.3561.43 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: на основе User-Agent
+Шрифты: Noto Sans Oriya, Noto Sans Kannada, Noto Sans, Noto Sans Devanagari, Georgia, Arial, Noto Sans Tifinagh, Noto Sans Cyrillic, Noto Sans Ethiopic, Noto Sans Arabic, Roboto Flex, Noto Sans Tibetan, Noto Sans Myanmar, Noto Sans Hebrew, Verdana, Noto Color Emoji, Droid Sans Mono, Helvetica, Noto Sans Georgian, Noto Sans Malayalam, Droid Serif, Noto Sans Gujarati, Noto Sans Thai, Noto Sans Gurmukhi, Noto Sans Tamil, Roboto Mono, Noto Sans Telugu, Noto Sans Bengali, Noto Sans Indic, Noto Sans CJK, Noto Sans Sinhala
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 740
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Oppo Find N3
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 2
+Имя: Asus ROG Phone 7 (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 144
+Система: Android 15
+User-Agent: Mozilla/5.0 (Linux; Android 15; AI2205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1080x2448
+Шрифты: Noto Sans Sinhala, Noto Sans Thai, Noto Sans Symbols, Noto Color Emoji, Noto Sans Malayalam, Noto Sans Oriya, Noto Sans Tamil, Noto Sans Khmer, Noto Serif, Noto Sans Gurmukhi, Noto Sans Ethiopic, Noto Sans Hebrew, Arial, Roboto Flex, Noto Sans Cyrillic, Noto Sans Myanmar, Droid Sans Mono, Helvetica, Noto Sans Thaana, Noto Sans Arabic, Noto Sans Armenian, Times New Roman, Droid Sans, Noto Sans Indic, Noto Sans Lao, Noto Sans Tibetan, Noto Sans Bengali
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 740
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Asus ROG Phone 7
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 3
+Имя: Oppo Reno 12 Pro (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 144
+Система: Android 14
+User-Agent: Mozilla/5.0 (Linux; Android 14; CPH2629) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1080x2412
+Шрифты: Noto Sans Arabic, Noto Sans Cyrillic, Noto Sans Bengali, Noto Sans, Noto Sans Malayalam, Noto Sans Tibetan, Noto Sans Armenian, Noto Sans Kannada, Roboto Mono, Noto Sans Gujarati, Noto Sans CJK, Noto Sans Indic, Noto Sans Gurmukhi, Georgia, Noto Sans Lao, Noto Sans Symbols, Noto Sans Georgian, Times New Roman, Noto Sans Tifinagh, Noto Sans Myanmar, Noto Sans Khmer, Noto Sans Telugu, Noto Sans Devanagari, Noto Sans Sinhala, Droid Sans Mono, Roboto, Noto Sans Thai, Noto Sans Thaana, Arial, Noto Color Emoji, Noto Sans Ethiopic, Droid Sans, Noto Sans Hebrew, Noto Sans Oriya, Verdana, Helvetica, Droid Serif, Noto Sans Tamil, Roboto Flex, Noto Serif
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 4 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: MediaTek, рендер: Mali-G610
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Oppo Reno 12 Pro
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 4
+Имя: Oppo Find X6 Pro (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 147
+Система: Android 14
+User-Agent: Mozilla/5.0 (Linux; Android 14; PGEM10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4754.118 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1440x3168
+Шрифты: Noto Sans Tifinagh, Noto Sans Cyrillic, Noto Sans Arabic, Noto Sans Symbols, Noto Sans Telugu, Noto Sans Thai, Noto Sans Gujarati, Helvetica, Noto Sans Tamil, Noto Sans Hebrew, Noto Sans Thaana, Noto Sans Lao, Noto Sans Kannada, Roboto Mono, Noto Sans Tibetan, Noto Sans Oriya, Noto Sans Gurmukhi, Droid Sans, Noto Color Emoji, Noto Sans Ethiopic, Noto Serif, Noto Sans Devanagari, Roboto, Noto Sans Bengali, Noto Sans Sinhala, Noto Sans CJK, Roboto Flex, Noto Sans Indic, Verdana, Noto Sans Armenian, Noto Sans, Droid Serif, Noto Sans Malayalam, Noto Sans Georgian, Times New Roman, Droid Sans Mono, Georgia, Arial
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 4 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 740
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Oppo Find X6 Pro
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 5
+Имя: Samsung Galaxy Z Flip 4 (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 147
+Система: Android 13
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1097.2 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1080x2640
+Шрифты: Rosemary, Times New Roman, Noto Sans Khmer, Helvetica, Samsung Latin, Noto Sans Devanagari, Droid Sans, Arial, Noto Sans Lao, Noto Serif, Verdana, Noto Sans Thai, Noto Color Emoji, Samsung Greek, Noto Sans CJK, Harmonious Sans, Choco Cooky, Samsung Chinese, Georgia, Samsung Korean
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 4 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 730
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Samsung Galaxy Z Flip 4
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 6
+Имя: iPhone 17 Air (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 144
+Система: Ios 26
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 26_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3 Mobile/15E148 Safari/605.1
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: на основе User-Agent
+Шрифты: Noteworthy, Avenir, PingFang SC, Chalkboard SE, Optima, Zapfino, Copperplate, Papyrus, Gill Sans, Georgia, Avenir Next, SF Pro, Verdana, Cochin, Palatino, Bradley Hand, Hoefler Text, Helvetica Neue, Kohinoor Devanagari, Futura, Thonburi, SF Pro Text, Marker Felt, Apple Color Emoji, Menlo, Geeza Pro, Snell Roundhand
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 3, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Apple Inc., рендер: Apple GPU
+WebGPU: На основе WebGL
+CPU: 6
+RAM: 8 GB
+Имя устройства: iPhone 17 Air
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 7
+Имя: Xiaomi 13 (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 146
+Система: Android 15
+User-Agent: Mozilla/5.0 (Linux; Android 15; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9057.71 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: на основе User-Agent
+Шрифты: Mi Sans Japanese, Mi Lanting Pro, MiLan Pro, Roboto, Mi Sans Hebrew, Mi Sans Indic, Georgia, Mi Sans Thai, Xiaomi Inter, Mi Sans Cyrillic, Mi Sans VF, Roboto Mono, Mi Sans Global, Noto Sans Ethiopic, Noto Sans, Noto Color Emoji, Mi Arabic, Mi Sans Korean, Noto Serif, Mi Sans Arabic, Mi Sans Latin, Noto Sans CJK, Noto Sans Armenian, Mi Sans Chinese, Mi Sans, Verdana, Helvetica, Droid Serif, Arial, Roboto Flex, Noto Sans Georgian, Mi Pro, Mi Thai, Droid Sans Mono, Droid Sans, Times New Roman, Noto Sans Devanagari, Mi Lanting
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 740
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Xiaomi 13
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 8
+Имя: iPhone 15 Pro (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 145
+Система: Ios 26
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 26_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Mobile/15E148 Safari/605.1
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: на основе User-Agent
+Шрифты: Apple SD Gothic Neo, Iowan Old Style, Helvetica Neue, Avenir, Chalkboard SE, Bodoni 72, Kohinoor Devanagari, Geeza Pro, Cochin, SF Pro Text, Noteworthy, Didot, Avenir Next, Trebuchet MS, Helvetica, Hiragino Kaku Gothic ProN, Menlo, Hoefler Text, Copperplate, Georgia, SF Pro, American Typewriter, Baskerville, Futura, Savoye LET, Marker Felt, Thonburi, Papyrus, Kohinoor Bangla, Snell Roundhand
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 3, Динамик: 2, Камеры: 4 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Apple Inc., рендер: Apple GPU
+WebGPU: На основе WebGL
+CPU: 6
+RAM: 8 GB
+Имя устройства: iPhone 15 Pro
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 9
+Имя: Sony Xperia 10 II (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 147
+Система: Android 11
+User-Agent: Mozilla/5.0 (Linux; Android 11; XQ-AU52) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.883.14 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: на основе User-Agent
+Шрифты: Noto Sans Malayalam, Roboto Mono, Noto Sans Khmer, Noto Sans Lao, Roboto Flex, Noto Sans Telugu, Noto Sans Gujarati, Noto Sans Tamil, Noto Sans Hebrew, Noto Sans Sinhala, Noto Sans Devanagari, Noto Color Emoji, Noto Sans Tifinagh, Noto Serif, Droid Sans, Noto Sans Bengali, Noto Sans CJK, Noto Sans Myanmar, Noto Sans Arabic, Noto Sans Cyrillic, Droid Serif, Arial, Noto Sans Gurmukhi, Noto Sans Armenian, Georgia
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 610
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 4 GB
+Имя устройства: Sony Xperia 10 II
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 10
+Имя: iPhone 12 Pro (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 144
+Система: Ios 26
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 26_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/144.0.2052.35 Mobile/15E148 Safari/605.1
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: на основе User-Agent
+Шрифты: Courier New, Arial, Academy Engraved LET, Futura, SF Pro Text, Papyrus, Avenir, Helvetica Neue, Iowan Old Style, Kohinoor Bangla, Charter, Cochin, Palatino, Helvetica, Apple SD Gothic Neo, Optima, Avenir Next, Snell Roundhand, Chalkboard SE, Hoefler Text, Bodoni 72, Times New Roman, PingFang SC, Gill Sans, Menlo, Trebuchet MS, Copperplate, Apple Color Emoji, Didot, Kohinoor Devanagari, SF Mono, Thonburi, Georgia
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 3, Динамик: 2, Камеры: 4 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Apple Inc., рендер: Apple A14 GPU
+WebGPU: На основе WebGL
+CPU: 6
+RAM: 6 GB
+Имя устройства: iPhone 12 Pro
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 11
+Имя: Sony Xperia 1 (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 145
+Система: Android 11
+User-Agent: Mozilla/5.0 (Linux; Android 11; J9110) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1644x3840
+Шрифты: Noto Sans Malayalam, Noto Sans Hebrew, Times New Roman, Noto Sans Tibetan, Noto Sans Bengali, Roboto Mono, Noto Sans Gujarati, Noto Sans, Noto Sans Devanagari, Noto Sans Myanmar, Noto Sans Arabic, Noto Sans Thaana, Georgia, Noto Serif, Noto Sans Khmer, Helvetica, Noto Sans Indic, Roboto Flex, Noto Sans Georgian, Noto Sans Ethiopic, Droid Serif, Roboto, Noto Sans Oriya
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 640
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 6 GB
+Имя устройства: Sony Xperia 1
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 12
+Имя: Realme 11 Pro+ (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 144
+Система: Android 15
+User-Agent: Mozilla/5.0 (Linux; Android 15; RMX3741) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1080x2412
+Шрифты: Noto Sans Tifinagh, Noto Sans Thaana, Droid Serif, Droid Sans, Times New Roman, Noto Sans Hebrew, Noto Sans Tamil, Noto Sans Ethiopic, Noto Sans CJK, Noto Sans Arabic, Noto Sans, Noto Sans Bengali, Noto Sans Myanmar, Roboto Mono, Helvetica, Noto Sans Telugu, Droid Sans Mono, Noto Sans Devanagari, Verdana, Roboto, Noto Sans Kannada, Noto Sans Sinhala, Roboto Flex
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 5 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: MediaTek, рендер: Mali-G68
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Realme 11 Pro+
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 13
+Имя: Motorola Edge 60 Pro (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 147
+Система: Android 15
+User-Agent: Mozilla/5.0 (Linux; Android 15; XT2507) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.3056.89 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1220x2712
+Шрифты: Noto Sans Arabic, Noto Sans Thai, Noto Sans Ethiopic, Noto Sans Tibetan, Droid Sans, Noto Sans Tifinagh, Noto Sans Tamil, Noto Sans Thaana, Georgia, Noto Sans Telugu, Noto Sans Bengali, Droid Serif, Roboto Mono, Noto Serif, Noto Sans Devanagari, Noto Sans Khmer, Noto Sans Cyrillic, Arial, Noto Sans Sinhala, Noto Sans Georgian, Noto Sans CJK, Noto Sans Kannada, Noto Sans Gujarati, Noto Sans, Noto Sans Malayalam
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 4 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 830
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Motorola Edge 60 Pro
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 14
+Имя: Infinix Note 12 VIP (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 144
+Система: Android 13
+User-Agent: Mozilla/5.0 (Linux; Android 13; X672) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: en-GB, de (интерфейс English (UK))
+Язык интерфейса: English (UK)
+Разрешение экрана: на основе User-Agent
+Шрифты: Noto Sans Thaana, Noto Sans Tibetan, Noto Sans Hebrew, Noto Sans Indic, Noto Color Emoji, Noto Sans Kannada, Noto Sans Sinhala, Noto Sans Armenian, Noto Sans Devanagari, Noto Sans Arabic, Helvetica, Noto Sans, Roboto Mono, Noto Sans Khmer, Noto Sans Gurmukhi, Noto Sans Georgian, Noto Sans Oriya, Noto Sans Lao, Noto Sans Bengali, Times New Roman, Georgia, Noto Sans Gujarati, Noto Sans Tifinagh, Noto Sans CJK, Droid Sans Mono, Noto Sans Ethiopic, Roboto, Arial, Noto Sans Thai, Droid Sans, Noto Sans Symbols, Noto Sans Tamil, Verdana, Noto Sans Myanmar, Noto Sans Cyrillic, Noto Serif, Droid Serif, Noto Sans Telugu
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: MediaTek, рендер: Mali-G57
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Infinix Note 12 VIP
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 15
+Имя: iPhone 11 Pro (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 145
+Система: Ios 13
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/400.6.751752337 Mobile/15E148 Safari/605.2
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1125x2436
+Шрифты: American Typewriter, Apple Color Emoji, Courier New, Noteworthy, Thonburi, Chalkboard SE, Times New Roman, Avenir, Papyrus, Didot, Futura, Palatino, Verdana, Apple SD Gothic Neo, Cochin, Academy Engraved LET, Hoefler Text, Kohinoor Devanagari, Marker Felt, PingFang SC, Bodoni 72, Optima, Copperplate, Bradley Hand, Baskerville, Helvetica, SF Pro, Snell Roundhand, Geeza Pro, Charter, Gill Sans, SF Pro Text, Menlo, SF Mono, Savoye LET, Arial
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 3, Динамик: 2, Камеры: 4 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Apple Inc., рендер: Apple A13 GPU
+WebGPU: На основе WebGL
+CPU: 6
+RAM: 4 GB
+Имя устройства: iPhone 11 Pro
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 16
+Имя: Motorola Moto G Stylus 5G (2024) (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 144
+Система: Android 15
+User-Agent: Mozilla/5.0 (Linux; Android 15; XT2403) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.3081.167 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1080x2400
+Шрифты: Noto Sans Devanagari, Roboto Mono, Noto Sans Thai, Noto Sans Gujarati, Noto Sans Ethiopic, Verdana, Noto Sans Hebrew, Noto Sans Bengali, Noto Sans CJK, Noto Sans Telugu, Noto Sans Armenian, Droid Sans, Noto Sans Malayalam, Droid Serif, Times New Roman, Noto Sans Kannada, Noto Sans Georgian, Noto Sans Thaana, Noto Sans Khmer, Roboto, Noto Sans Indic, Noto Sans Symbols
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 619
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Motorola Moto G Stylus 5G (2024)
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 17
+Имя: Google Pixel 6 Pro (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 145
+Система: Android 13
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: на основе User-Agent
+Шрифты: Google Sans Display, Google Sans Text, Noto Sans Georgian, Noto Sans Tamil, Google Sans Serif, Google Sans, Google Sans Mono, Noto Sans Khmer, Noto Serif, Noto Sans Arabic, Google Sans Narrow, Droid Sans Mono, Droid Sans, Noto Sans Devanagari, Noto Sans Myanmar, Helvetica, Noto Sans, Noto Sans Hebrew, Noto Sans Kannada, Noto Sans Thai, Noto Sans Ethiopic, Roboto, Roboto Mono, Verdana, Noto Sans Armenian, Google Sans Bold
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 4 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Google, рендер: Mali-G78
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Google Pixel 6 Pro
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 18
+Имя: iPhone 14 Plus (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 145
+Система: Ios 26
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 26_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/145.0.454.123 Mobile/15E148 Safari/605.1
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1284x2778
+Шрифты: Verdana, Baskerville, Geeza Pro, Arial, SF Mono, Palatino, Apple SD Gothic Neo, Apple Color Emoji, Didot, SF Pro, Marker Felt, Optima, Academy Engraved LET, Kohinoor Bangla, Cochin, Iowan Old Style, Times New Roman, Trebuchet MS, Courier New, Savoye LET, Snell Roundhand, Kohinoor Devanagari, Helvetica, Bodoni 72, Futura, Hoefler Text, Noteworthy, Papyrus, Thonburi, Helvetica Neue, SF Pro Text, Gill Sans, PingFang SC, Zapfino
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 3, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Apple Inc., рендер: Apple GPU
+WebGPU: На основе WebGL
+CPU: 6
+RAM: 6 GB
+Имя устройства: iPhone 14 Plus
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 19
+Имя: OnePlus Open (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 147
+Система: Android 13
+User-Agent: Mozilla/5.0 (Linux; Android 13; CPH2551) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: на основе User-Agent
+Шрифты: Noto Sans Cyrillic, Noto Sans Symbols, Noto Sans Tamil, Noto Sans Gujarati, Roboto Flex, Georgia, Noto Sans Malayalam, Noto Sans Bengali, Noto Sans Armenian, Droid Serif, Noto Sans Telugu, Roboto, Noto Sans Oriya, Noto Sans Lao, Noto Serif, Noto Sans Sinhala, Noto Sans Kannada, Noto Color Emoji, Noto Sans Ethiopic, Droid Sans, Verdana, Noto Sans Tifinagh, Noto Sans, Droid Sans Mono, Noto Sans Georgian, Noto Sans Khmer, Noto Sans Hebrew
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: Qualcomm, рендер: Adreno 740
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: OnePlus Open
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+
+УСТРОЙСТВО 20
+Имя: Vivo V21 (указать марку телефона, если профиль для клика‑ничего дальше не указывать, если профиль для регистрации или депозита указать регион который выбивается в прокси, почту на которую регистрировался аккаунт и пароль, также указать дату и время создания профиля.)
+Браузер: SunBrowser 146
+Система: Android 11
+User-Agent: Mozilla/5.0 (Linux; Android 11; V2066) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9831.176 Mobile Safari/537.36
+WebRTC: подмена
+Часовой пояс: на основе IP
+Геолокация: на основе IP
+Язык: de, en-GB (интерфейс Deutsch)
+Язык интерфейса: Deutsch
+Разрешение экрана: 1080x2400
+Шрифты: Noto Sans Symbols, Noto Sans CJK, Noto Sans Hebrew, Noto Sans Lao, Noto Sans Thaana, Noto Sans Armenian, Noto Sans Kannada, Noto Sans Oriya, Droid Serif, Noto Sans Bengali, Noto Sans Tifinagh, Noto Sans Gurmukhi, Noto Color Emoji, Noto Sans Ethiopic, Noto Sans Myanmar, Noto Sans Tamil, Roboto Flex, Noto Sans Cyrillic, Noto Sans Devanagari, Noto Sans Khmer, Noto Sans Arabic, Helvetica, Noto Sans Malayalam
+Canvas: вкл
+WebGL Image: вкл
+Audiocontext: вкл
+Медиа‑Устройства: Микрофон: 2, Динамик: 2, Камеры: 3 (нажать изменить, убрать галочку автоматически и написать нужное количество)
+ClientRects: вкл
+SpeechVoices: вкл
+WebGL метаданные: настроить, вендор: MediaTek, рендер: Mali-G57
+WebGPU: На основе WebGL
+CPU: 8
+RAM: 8 GB
+Имя устройства: Vivo V21
+Do Not Track: Выключить
+Защита от сканирования портов: Включить
+Аппаратное ускорение: Включить
+Отключить функции TLS: Выключить
+
+
+

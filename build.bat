@@ -6,7 +6,7 @@ echo  Mobile Profile Manager - Build Script
 echo =============================================
 
 :: 1. Настройка базового Python
-set PYTHON=python
+set PYTHON=py
 
 :: 2. Очистка старого окружения, если оно битое
 if exist ".venv" (
